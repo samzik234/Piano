@@ -52,6 +52,14 @@ html {
   border-radius: 50px;
 }
 
+@media  ( max-width:770px){
+  .logo{
+    display: none;
+  }
+}
+  
+
+
 .music{
 width:50%;
 max-width: 765px;
